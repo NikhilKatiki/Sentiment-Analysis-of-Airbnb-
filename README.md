@@ -20,7 +20,7 @@
 # Data Dictionary
   1.Since the sentiment score can only be found from reviews (unstructured data), Reviews data from Airbnb has been used to understand the sentiment of the customer <br>
   2.The dataset contains the following information. Displaying the first 5 rows of the data <br>
-  <img width="439" alt="Head_reviews" src="https://user-images.githubusercontent.com/89437135/147394621-8317b028-9a39-41cc-90a8-982104396ada.png"> <br>
+  <img width="600" alt="Head_reviews" src="https://user-images.githubusercontent.com/89437135/147394621-8317b028-9a39-41cc-90a8-982104396ada.png"> <br>
   3.Only the reviews column is used to find the sentiment of the customer <br>
 # Data Preprocessing  
    The reviews data is in string format which needs to be converted to numeric format to find the quantitative sentiment score. Following are the steps <br> 
@@ -40,6 +40,8 @@
    The score is calculated using the formula: <br>
           Sentiment score = (#Positive)/(#Positive+#Negative) when #Positive>#Negative <br>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  =-(#Negative)/(#Positive+#Negative) when #Positive>#Negative<br>
+                        <img width="600" alt="Sentimentscore" src="https://user-images.githubusercontent.com/89437135/147394661-cdb53265-33ad-4630-8bd2-ffe5524f7b81.png">
+<br>
 # Results 
   1.From the analysis, it is clear that Airbnb implemented strategies which makes them unique in responding to the pandemic <br>
   2.Sentiment dropped after March 2020, but as the company takes remedial steps, sentiment increased over time <br>
