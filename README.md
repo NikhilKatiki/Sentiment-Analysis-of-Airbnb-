@@ -9,9 +9,10 @@
   9. Tableau Dashboard 
   10. Limitations of Score
 # Introduction 
-  1.It is not new that pandemic impacted a lot of businesses from closing the business for sometime to complete shutdown of the business <br>
-  2.Airbnb is one of those companies who got hit initially and regained over time <br>
-  3.To analyze the customer sentiment during this period, Customer sentiment score is calculated and understand the impact of strategies on the customer sentiment score
+  1.Going into 2020, Airbnb is going at a rapid pace and expanded their business into new markets and categories <br>
+  2.It is not new that pandemic impacted a lot of businesses from closing the business for sometime to complete shutdown of the business <br>
+  3.Airbnb is one of those companies who got hit initially and regained over time <br>
+  4.To analyze the customer sentiment during this period, Customer sentiment score is calculated and understand the impact of strategies on the customer sentiment score
 # Objective 
   1.Airbnb has regained well during covid. It is obvious that the positive customer sentiment decrease at some point and then, suddenly increase <br>
   2.The objective is to understand how sentiment on Airbnb has varied across time and see, what all things have changed in Airbnb during pre-covid and post-covid <br> 
@@ -40,9 +41,10 @@
           Sentiment score = (#Positive)/(#Positive+#Negative) when #Positive>#Negative <br>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  =-(#Negative)/(#Positive+#Negative) when #Positive>#Negative<br>
 # Results 
-  1.Sentiment dropped after March 2020, but as the company takes remedial steps, sentiment increased over time <br>
-  2.Top positive and negative comments did not change much in pre and post Covid  <br>
-  3.Dirty and Crowded are highlighted negative comments post-Covid which can be suggestion to Airbnb hotels which are having low sentiment scores <br>
+  1.From the analysis, it is clear that Airbnb implemented strategies which makes them unique in responding to the pandemic <br>
+  2.Sentiment dropped after March 2020, but as the company takes remedial steps, sentiment increased over time <br>
+  3.Top positive and negative comments did not change much in pre and post Covid  <br>
+  4.Dirty and Crowded are highlighted negative comments post-Covid which can be suggestion to Airbnb hotels which are having low sentiment scores <br>
 # Tableau Dashboard 
 https://public.tableau.com/app/profile/katiki.nikhil
 
