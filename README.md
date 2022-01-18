@@ -10,16 +10,16 @@
   10. Limitations of Score
 # Introduction 
   1.Going into 2020, Airbnb is going at a rapid pace and expanded their business into new markets and categories <br>
-  2.It is not new that pandemic impacted a lot of businesses from closing the business for sometime to complete shutdown of the business <br>
+  2.It is not suprising that pandemic impacted a lot of businesses from closing the business for sometime to complete shutdown of the business <br>
   3.Airbnb is one of those companies who got hit initially and regained over time <br>
   4.To analyze the customer sentiment during this period, Customer sentiment score is calculated and understand the impact of strategies on the customer sentiment score
 # Objective 
-  1.Airbnb has regained well during covid. It is obvious that the positive customer sentiment decrease at some point and then, suddenly increase <br>
-  2.The objective is to understand how sentiment on Airbnb has varied across time and see, what all things have changed in Airbnb during pre-covid and post-covid <br> 
-  3.Since the reviews would be very high in number, only 3 cities have been considered for the analysis (which are very different from each other) <br>
+  1.The objective is to understand how sentiment on Airbnb has varied across time and see, what all things have changed in Airbnb during pre-covid and post-covid <br> 
+  2.Since the reviews would be very high in number, only 3 cities have been considered for the analysis (which are very different from each other) <br>
 # Data Dictionary
-  1.Since the sentiment score can only be found from reviews (unstructured data), Reviews data from Airbnb has been used to understand the sentiment of the customer <br>
-  2.The dataset contains the following information. Displaying the first 5 rows of the data <br>
+  1.With the increased importance of analysing unstructured data, Reviews data from Airbnb has been used to understand the sentiment of the customer <br>
+  2.The dataset contains the following information. Displaying the first 5 rows of the data <br> 
+  <br>
   <img width="600" alt="Head_reviews" src="https://user-images.githubusercontent.com/89437135/147394621-8317b028-9a39-41cc-90a8-982104396ada.png"> <br>
   3.Only the reviews column is used to find the sentiment of the customer <br>
 # Data Preprocessing  
