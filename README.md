@@ -56,3 +56,4 @@ https://public.tableau.com/app/profile/katiki.nikhil
     2.There are equal weights assigned to each and every word 
     3.The Analysis wont capture the phrases such as "not good". This sentence has neutral score whereas it is to be tagged as negative 
   
+# Thank You!
